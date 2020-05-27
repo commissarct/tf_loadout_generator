@@ -1,0 +1,56 @@
+{
+    "classes":["Scout", "Soldier", "Pyro", "Demoman", "Heavy", "Engineer", "Medic", "Sniper", "Spy"],
+
+    "weapons":{
+        
+        "0":{
+            "primary":["Scattergun", "Force-A-Nature", "Shortstop", "Soda Popper", "Baby Face's Blaster", "Back Scatter"],
+            "secondary":["Pistol", "Lugermorph", "C.A.P.P.E.R", "Bonk! Atomic Punch", "Crit-a-Cola", "Mad Milk", "Mutated Milk", "Winger", "Pretty Boy's Pocket Pistol", "Flying Guillotine"],
+            "melee":["Bat", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Holy Mackerel", "Unarmed Combat", "Batsaber", "Sandman", "Candy Cane", "Boston Basher", "Three-Rune Blade", "Sun-on-a-Stick", "Fan O'War", "Atomizer", "Wrap Assassin"]
+        },
+        "1":{
+            "primary":["Rocket Launcher", "Original", "Direct Hit", "Black Box", "Rocket Jumper", "Liberty Launcher", "Cow Mangler 5000", "Beggar's Bazooka", "Air Strike"],
+            "secondary":["Shotgun", "Buff Banner", "Gunboats", "Battalion's Backup", "Concheror", "Mantreads", "Reserve Shooter", "Righteous Bison", "B.A.S.E. Jumper", "Panic Attack"],
+            "melee":["Shovel", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Equalizer", "Pain Train", "Half-Zatoichi", "Disciplinary Action", "Market Gardener", "Escape Plan"]
+        },
+        "2":{
+            "primary":["Flame Thrower", "Nostromo Napalmer", "Backburner", "Degreaser", "Phlogistinator", "Rainblower", "Dragon's Fury"],
+            "secondary":["Shotgun", "Flare Gun", "Detonator", "Reserve Shooter", "Manmelter", "Scorch Shot", "Panic Attack", "Thermal Thruster", "Gas Passer"],
+            "melee":["Fire Axe", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Axtinguisher", "Postal Pummeler", "Homewrecker", "Maul", "Powerjack", "Back Scratcher", "Sharpened Volcano Fragment", "Third Degree", "Lollichop", "Neon Annihilator", "Hot Hand"]
+        },
+
+        "3":{
+            "primary":["Grenade Launcher", "Loch-n-Load", "Ali Baba's Wee Booties", "Bootlegger", "Loose Cannon", "B.A.S.E. Jumper", "Iron Bomber"],
+            "secondary":["Stickybomb Launcher", "Chargin' Targe", "Scottish Resistance", "Sticky Jumper", "Splendid Screen", "Tide Turner", "Quickiebomb Launcher"],
+            "melee":["Bottle", "Scottish Handshake", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Eyelander", "Horseless Headless Horsemann's Headtaker", "Nessie's Nine Iron", "Pain Train", "Scotsman's Skullcutter", "Claidheamh Mòr", "Ullapool Caber", "Half-Zatoichi", "Persian Persuader"]
+        },
+        "4":{
+            "primary":["Minigun", "Iron Curtain", "Natascha", "Brass Beast", "Tomislav", "Huo-Long Heater"],
+            "secondary":["Shotgun", "Sandvich", "Robo-Sandvich", "Dalokohs Bar", "Fishcake", "Buffalo Steak Sandvich", "Family Business", "Panic Attack", "Second Banana"],
+            "melee":["Fists", "Apoco-Fists", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Killing Gloves of Boxing", "Gloves of Running Urgently", "Bread Bite", "Warrior's Spirit", "Fists of Steel", "Eviction Notice", "Holiday Punch"]
+        },
+        "5":{
+            "primary":["Shotgun", "Frontier Justice", "Widowmaker", "Pomson 6000", "Rescue Ranger", "Panic Attack"],
+            "secondary":["Pistol", "Lugermorph", "C.A.P.P.E.R", "Wrangler", "Giger Counter", "Short Circuit"],
+            "melee":["Wrench", "Gunslinger", "Southern Hospitality", "Jag", "Eureka Effect"]
+        },
+
+        "6":{
+            "primary":["Syringe Gun", "Blutsauger", "Crusader's Crossbow", "Overdose"],
+            "secondary":["Medi Gun", "Kritzkrieg", "Quick-Fix", "Vaccinator"],
+            "melee":["Bonesaw", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Übersaw", "Vita-Saw", "Amputator", "Solemn Vow"]
+        },
+        "7":{
+            "primary":["Sniper Rifle", "AWPer Hand", "Huntsman", "Fortified Compound", "Sydney Sleeper", "Bazaar Bargain", "Machina", "Shooting Star", "Hitman's Heatmaker", "Classic"],
+            "secondary":["Submachine Gun", "Jarate", "Self-Aware Beauty Mark", "Razorback", "Darwin's Danger Shield", "Cozy Camper", "Cleaner's Carbine"],
+            "melee":["Kukri", "Frying Pan", "Conscientious Objector", "Freedom Staff", "Bat Outta Hell", "Ham Shank", "Crossing Guard", "Tribalman's Shiv", "Bushwacka", "Shahanshah"]
+        },
+        "8":{
+            "primary":["Revolver", "Big Kill", "Ambassador", "L'Etranger", "Enforcer", "Diamondback"],
+            "melee":["Knife", "Sharp Dresser", "Black Rose", "Your Eternal Reward", "Wanga Prick", "Conniver's Kunai", "Big Earner", "Spy-cicle"],
+            "secondary":["Invis Watch", "Enthusiast's Timepiece", "Quäckenbirdt", "Cloak and Dagger", "Dead Ringer"],
+            "sapper":["Sapper", "Ap-Sap", "Snack Attack", "Red-Tape Recorder"]
+        }
+
+    }
+}
